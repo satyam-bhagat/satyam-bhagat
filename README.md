@@ -6,9 +6,6 @@
 - 📫 reach me by satyambhagat1255@gmail.com 
 - 😄 Pronouns🧑‍💻
 - ⚡ Fun fact: The first bug in a computer was an actual bug
-- 
-
-
 <!---
 satyam-bhagat/satyam-bhagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
